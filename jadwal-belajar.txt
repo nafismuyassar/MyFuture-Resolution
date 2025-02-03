@@ -1,5 +1,7 @@
 Jadwal Belajar Harian:
-1. Pagi belajar GitHub dan Bahasa Inggris.
-2. Sore belajar Coding.
+1. 07:00-09:00 WIB (Belajar GitHub).
+2. 10:00-11:00 WIB (Belajar Bahasa Inggris).
+3. 13:00-14:00 WIB (Belajar Bahasa Inggris lanjutan).
+4. 16:00-17:30 WIB (Belajar Coding).
 
-Tidak boleh bolos!!!
+Tidak boleh bolos!
